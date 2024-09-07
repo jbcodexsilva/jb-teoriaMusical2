@@ -31,6 +31,6 @@ E aí, curtiu? Se tiver alguma sugestão ou quiser contribuir com o projeto, é 
 
 #teoriamusical #programacao #javascript #html #css #musica #aprendizado
 
-link-Vercel.app =jb-teoria-musical2.vercel.app
+link-Vercel.app = jb-teoria-musical2.vercel.app
 
 
